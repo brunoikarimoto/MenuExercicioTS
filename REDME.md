@@ -1,1 +1,0 @@
-Menu para mostra exercícios feitos em aula. (Typescript)
